@@ -29,7 +29,9 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-    dependencies {
-        implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
-    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar', '*.aar'])
 }

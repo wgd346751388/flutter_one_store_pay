@@ -1,8 +1,8 @@
 name: one_store
 description: one store插件
 version: 0.0.1
-author:
-homepage:
+author: wu
+homepage: https://github.com/wgd346751388/flutter_one_store_pay
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
